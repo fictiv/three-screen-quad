@@ -183,7 +183,7 @@ export default class ScreenQuad extends THREE.Mesh{
 
 	setTop( v ) {
 
-		console.log( v );
+		// console.log( v );
 
 		this.top = v;
 
@@ -205,7 +205,7 @@ export default class ScreenQuad extends THREE.Mesh{
 
 	setLeft( v ){
 
-		console.log( v );
+		// console.log( v );
 
 		this.left = v;
 
@@ -223,7 +223,7 @@ export default class ScreenQuad extends THREE.Mesh{
 
 		}
 
-		console.log( this._pixels )
+		// console.log( this._pixels )
 
 	}
 

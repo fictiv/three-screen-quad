@@ -136,7 +136,7 @@ module.exports = function( THREE ){
 
 	ScreenQuad.prototype._initPair = function( params , pair ){
 
-		console.log( params );
+		// console.log( params );
 
 		if( undefined !== params[ pair[0] ] || undefined !== params[ pair[1] ] ){
 
